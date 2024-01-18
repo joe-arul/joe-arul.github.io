@@ -19,7 +19,6 @@ Graduate Research Assistant
 - Trained LLMs to detect anomalous (text) commands in security logs with 30% better accuracy than existing solutions on the market. (Paper in peer review process)
 - Wrote optimized versions of activation functions in C++ curated to each problem and improved prediction processing speed by 72%.
 - Built callable APIs in Python to be used for model inference and report generation.
-- Currently researching the possibility of using the perplexity scores of causal language models as a means to identify cybersecurity anomalies.
 
 > Administrative tasks (Cybersecurity courses):
 

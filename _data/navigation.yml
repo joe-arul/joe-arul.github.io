@@ -1,0 +1,17 @@
+# main links
+main: 
+  - title: "Home"
+    url: /
+  - title: "Academic Projects"
+    url: /projects/ 
+  - title: "Work Experience"
+    url: /experience/
+  - title: "Education"
+    url: /education/
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

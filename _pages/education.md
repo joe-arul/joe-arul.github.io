@@ -6,13 +6,13 @@ author_profile: true
 classes: wide
 ---
 
-MS - Information Systems and Business Analytics (STEM Designated - CIP code: 11.0501)
+MS - Information Systems and Business Analytics 
 ---------   
-University of South Florida, Tampa
+*STEM Designated - CIP code: 11.0501* | University of South Florida, Tampa
 
 | Aug 2022 - May 2024 |
 | GPA: 3.96           |
-| [Transcript]("https://drive.google.com/file/d/1Lq1sEVuvhlmGMvW42tWC3ZFTBSyROAhd/view?usp=drive_link") |
+| [Transcript](https://drive.google.com/file/d/1Lq1sEVuvhlmGMvW42tWC3ZFTBSyROAhd/view?usp=drive_link) |
 
 - Awarded Teaching Assistantships for courses Data Warehousing and Advanced Database Management
 - Top of the class in courses Big Data, Data Science Programming, Advanced System Analysis and Tech Foundations of AI
@@ -29,10 +29,16 @@ University of South Florida, Tampa
 > NoSQL, CAP Theorem, Cassandra, MongoDB, HDFS, Impala, Hadoop MapReduce, Spark
 - ISM6218 Advanced Database Management *(Fall 2022, Dr. Varol Kayhan)*
 > ERDs, Joins, Subqueries, Views, Indexes, Functions, Analytic Databases, NoSQL
+
 - QMB6304 Analytical Methods for Business  *(Fall 2022, Dr. Daniel Zantedeschi)*
 > Hypothesis Testing, ANOVA, Correlations, Multiple and Time-Series Regression, Optimization
+- ISM6155 Enterprise Information Systems  *(Fall 2023, Dr. Priya Dozier)*
+> Case Studies: Risk Management, Quality vs Innovation, Incident Containment, Growth Mindset, AI implementation
 - ISM6225 Distributed Information Systems *(Spring 2023, Dr. Manish Agrawal)*
 > OSI Model, Support Services, Web Development
 - ISM6124 Advanced System Analysis and Design *(Summer 2023, Dr. Bhuvan Unhelkar)*
 > UML - Extensibility, Interaction and Database Modeling, Software Reuse, Deployment, NFRs
+- ISM6328 Information Security *(Fall 2023, Dr. Marcus Green)*
+> Business Drivers, Access Controls, Attack Vectors, Security Operations, Contingency Planning
+
 

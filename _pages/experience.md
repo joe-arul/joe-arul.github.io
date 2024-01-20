@@ -9,7 +9,7 @@ classes: wide
 
 Graduate Research Assistant  
 ---------   
-**[Cyber Florida Grant]("https://cyberflorida.org/")**, University of South Florida
+[**Cyber Florida Grant**](https://cyberflorida.org/), University of South Florida
 
 | May 2023 - Present |
 | Tampa, FL          |
@@ -40,12 +40,12 @@ Data Warehousing, Advanced Database Management Courses - School of Information S
 
 Software Engineer
 ---------   
-**[Rocket Software]("https://www.rocketsoftware.com")**
+[**Rocket Software**](https://www.rocketsoftware.com)
 
 | Sep 2018 – Aug 2022 (4 yrs.)       |
 | Chennai, India                     |
 
-> Product: [TMON Analytics Infrastructure]("https://www.rocketsoftware.com/products/rocket-tmon-one")
+> Product: [TMON Analytics Infrastructure](https://www.rocketsoftware.com/products/rocket-tmon-one)
  
 - Redesigned the product's data pipeline to include parallel streaming and data standardization, improving end-end throughput by 40%. (**Team of 3**)
 - Automated Kafka Cluster setup and management in bash scripts, reducing admin work by 15 hours monthly.

@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 plugins:
   - jekyll-remote-theme
-  
+
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -122,9 +122,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joe-arul/"
+    - label: "Credly"
+      icon: "fab fa-fw star"
+      url: "https://www.credly.com/users/joearul"      
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
-      url: "https://discord.com/channels/joe.arul"
+      # url: "https://discord.com/channels/joe.arul"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/_joearul/"

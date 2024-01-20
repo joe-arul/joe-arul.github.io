@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "வணக்கம் / Vaṇakkam (I respect your presence!)  ⚜️"
+title: "Welcome!  ⚜️"
 author_profile: true
 classes: wide
 ---

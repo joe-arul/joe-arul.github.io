@@ -123,7 +123,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joe-arul/"
     - label: "Credly"
-      icon: "fab fa-fw fa-check-circle"
+      icon: "fas fa-fw fa-star-o"
       url: "https://www.credly.com/users/joearul"      
     - label: "Discord"
       icon: "fab fa-fw fa-discord"

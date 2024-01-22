@@ -14,6 +14,3 @@ I am a Software Engineering candidate with interests in end-end Data and ML/AI l
 - At my last job as a software engineer at [**Rocket Software**](https://www.rocketsoftware.com/products/rocket-tmon-one/rocket-tmon), I worked on integrating Mainframe products with Cloud analytics platforms and maintaining + modernizing legacy software written in z/OS assembly language. 
 
 <p style="text-align: center;"> <em> <a href="mailto:s.joearul@gmail.com">Send</a> me a message if I can add any value to you! </em> </p>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="joearul" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/joearul?trk=profile-badge">Joe Arul S.</a></div>
-              

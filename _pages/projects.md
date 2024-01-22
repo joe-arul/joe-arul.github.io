@@ -25,6 +25,8 @@ gallery:
 | 6        | [📱 SocioConnect](#SocioConnect) | Flask  |  Prototype website demoing a new social media platform  | Group Work |
 | 7        | [🚗 Auto-Insurance Risk Analysis](#AutoRisk)    | Scikit-learn             | Using ML to predict whether a car is associated with any risks based on the car's attributes | Group Work |
 | 8        | [🏠 St.Petersburg Property Value Analysis](#PropertyValue)    | Geopandas             | Property value analysis for the city of St. Pete  | Group Work |
+| 9        | [🛡️ Insurance Management : System Design](#LuckyInsurance)    | UML, LucidChart             | | Group Work |
+| 10        | [🔎 Analysis of Cyber attack against T-Mobile](#SyberAttack)    |              | Report on the 2021 T-Mobile data breach and steps to protect against such attacks  | Individual Work |
 
 
 ## <a id="MachineTranslation"></a>🔠 Machine Translation
@@ -105,11 +107,17 @@ In this project we (group) analyze the South St. Petersburg Community Redevelopm
 
 Find the project on: [![YouTube](https://badgen.net/badge/icon/YouTube?icon=youtube&label)](https://www.youtube.com/watch?v=ZLMxLkWyuCQ&list=LL&index=14&t=76s) 
 
+## <a id="LuckyInsurance"></a> 🛡️ Insurance Management : System Design
+
+UML-based system design project for the day-day operations of an Insurance Company.
+
+Find the project on: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1N_JDcxyGylSgHQm8kccIjjOCw4G0rD0k/view?usp=drive_link) 
+
+## <a id="CyberAttack"></a> 🔎 Analysis of Cyber Attack against T-Mobile
 
 
+This project report showcases a comprehensive analysis of the 2021 data breach against T-Mobile, how to avoid such incidents and countermeasures, policies against future incidents.
 
-
-
-
+Find the project on: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XujjekVR-Eo2u2UlM0H5jV1WrIrQ7SFh/view?usp=drive_link) 
 
 

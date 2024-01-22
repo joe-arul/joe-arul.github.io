@@ -17,28 +17,41 @@ MS - Information Systems and Business Analytics
 - Awarded Teaching Assistantships for courses Data Warehousing and Advanced Database Management
 - Top of the class in courses Big Data, Data Science Programming, Advanced System Analysis and Tech Foundations of AI
 
-**Courses undertaken:**
+**Course Pathways completed:**
+> Data Mining / Analytical Methods **&rarr;** Machine Learning (Data Science Programming) **&rarr;** Deep Learning **&rarr;** *AI for Business (in-progress)* 
 
-- ISM6136 Data Mining *(Fall 2022, Dr. Timothy Smith)*
+> Advanced Database Management **&rarr;** Data Warehousing (TA) **&rarr;** Big Data 
+
+
+<details>
+<summary><b>Completed Course List and Learning</b></summary>
+<br>
+<ul>
+<li> ISM6930 <em>AI for Business - in progress (Spring 2024, Dr. Alan Hevner)</em> </li>
+> Design Science, Human Machine Interactions and Controls, AI Impacts on Business and applications in various domains
+<li> ISM6136 Data Mining <em>(Fall 2022, Dr. Timothy Smith)</em> </li>
 > Data Preparation Techniques, Data Imbalances, Errors in Modeling, Metrics for Evaluation, Predictive Analytics
-- ISM6251 Data Science Programming / Machine Learning *(Spring 2023, Dr. Varol Kayhan)*
+<li> ISM6251 Data Science Programming / Machine Learning <em>(Spring 2023, Dr. Varol Kayhan)</em> </li>
 > Linear Models, SVM, Ensemble Methods, Text Mining, Neural Networks
-- ISM6930 Tech Foundation of AI / Deep Learning *(Fall 2023, Dr. TengTeng Ma)*
+<li> ISM6930 Tech Foundation of AI / Deep Learning <em>(Fall 2023, Dr. TengTeng Ma)</em> </li>
 > Neural architectures, NLP techniques, Image processing techniques, Attention & Self-Attention, Reinforcement Learning
-- ISM6562 Big Data for Business *(Spring 2023, Dr. Kaushik Dutta)*
+<li> ISM6562 Big Data for Business <em>(Spring 2023, Dr. Kaushik Dutta)</em> </li>
 > NoSQL, CAP Theorem, Cassandra, MongoDB, HDFS, Impala, Hadoop MapReduce, Spark
-- ISM6218 Advanced Database Management *(Fall 2022, Dr. Varol Kayhan)*
+<li> ISM6218 Advanced Database Management <em>(Fall 2022, Dr. Varol Kayhan)</em> </li>
 > ERDs, Joins, Subqueries, Views, Indexes, Functions, Analytic Databases, NoSQL
-
-- QMB6304 Analytical Methods for Business  *(Fall 2022, Dr. Daniel Zantedeschi)*
+<li> QMB6304 Analytical Methods for Business  <em>(Fall 2022, Dr. Daniel Zantedeschi)</em> </li>
 > Hypothesis Testing, ANOVA, Correlations, Multiple and Time-Series Regression, Optimization
-- ISM6155 Enterprise Information Systems  *(Fall 2023, Dr. Priya Dozier)*
+<li> ISM6155 Enterprise Information Systems  <em>(Fall 2023, Dr. Priya Dozier)</em> </li>
 > Case Studies: Risk Management, Quality vs Innovation, Incident Containment, Growth Mindset, AI implementation
-- ISM6225 Distributed Information Systems *(Spring 2023, Dr. Manish Agrawal)*
+<li> ISM6225 Distributed Information Systems <em>(Spring 2023, Dr. Manish Agrawal)</em> </li>
 > OSI Model, Support Services, Web Development
-- ISM6124 Advanced System Analysis and Design *(Summer 2023, Dr. Bhuvan Unhelkar)*
+<li> ISM6124 Advanced System Analysis and Design <em>(Summer 2023, Dr. Bhuvan Unhelkar)</em> </li>
 > UML - Extensibility, Interaction and Database Modeling, Software Reuse, Deployment, NFRs
-- ISM6328 Information Security *(Fall 2023, Dr. Marcus Green)*
+<li> ISM6328 Information Security <em>(Fall 2023, Dr. Marcus Green)</em> </li>
 > Business Drivers, Access Controls, Attack Vectors, Security Operations, Contingency Planning
+</ul>
+</details>
+
+
 
 

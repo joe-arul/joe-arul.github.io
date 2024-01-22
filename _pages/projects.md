@@ -26,14 +26,14 @@ gallery:
 | 7        | [🚗 Auto-Insurance Risk Analysis](#AutoRisk)    | Scikit-learn             | Using ML to predict whether a car is associated with any risks based on the car's attributes | Group Work |
 | 8        | [🏠 St.Petersburg Property Value Analysis](#PropertyValue)    | Geopandas             | Property value analysis for the city of St. Pete  | Group Work |
 | 9        | [🛡️ Insurance Management : System Design](#LuckyInsurance)    | UML, LucidChart             | UML based design of an Insurance Management System | Group Work |
-| 10        | [🔎 Analysis of Cyber attack against T-Mobile](#SyberAttack)    | Info-Security analysis             | Report on the 2021 T-Mobile data breach and steps to protect against such attacks  | Individual Work |
+| 10        | [🔎 Analysis of Cyber attack against T-Mobile](#CyberAttack)    | Info-Security analysis             | Report on the 2021 T-Mobile data breach and steps to protect against such attacks  | Individual Work |
 
 
 ## <a id="MachineTranslation"></a>🔠 Machine Translation
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-In this assignment I explore different strategies used in building and training a Language Translator. I use Seq2Seq learning to convert sequences from English to Hebrew(Right to left typed). I also employ techniques such as bi-directional learning and Attention mechanism which serve as the building blocks of advanced transformer-based NLP models such as GPT, Llama etc. 
+In this assignment I explore different strategies used in building and training a Language Translator. I use Seq2Seq learning to convert sequences from English to Hebrew(Right to left typed/ DextroSinistral). I also employ techniques such as bi-directional learning and Attention mechanism which serve as the building blocks of advanced transformer-based NLP models such as GPT, Llama etc. 
 
 Find the project on: 
 [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/machine_translation.git) 

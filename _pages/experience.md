@@ -16,7 +16,7 @@ Graduate Research Assistant
 
 > Research Work:
 
-- Trained LLMs to detect anomalous commands in security logs with 30% better accuracy than existing solutions on the market. 
+- Trained LLMs(Both Masked and Causal) to detect anomalous commands in security logs with 30% better accuracy than existing solutions on the market. 
 - Wrote optimized versions of activation functions in C++ curated to each problem and improved prediction processing speed by 72%.
 - Built callable APIs in Python to be used for model inference and report generation.
 

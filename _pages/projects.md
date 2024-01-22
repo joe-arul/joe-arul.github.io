@@ -15,7 +15,7 @@ gallery:
     title: "Important Features"
 ---
 
-| **S.No** | **Project Name**                | **Primary Tech Used** | **Purpose** | **Type** |
+| **S.No** | **Project Name**                | **Primary Tech/Skill Used** | **Purpose** | **Type** |
 |----------|---------------------------------|-----------------------|-------------|----------| 
 | 1        | [🔠 Machine Translation](#MachineTranslation) | Tensorflow   |  Seq2Seq Model architectures for Language Translation on Right-Left typed Languages           | Individual Work |
 | 2        | [♻️ Machine Unlearning / Forgetting](#MachineUnlearning) | Torch  |  Exploring solutions to make models forget training data partially           | Individual Work |
@@ -25,8 +25,8 @@ gallery:
 | 6        | [📱 SocioConnect](#SocioConnect) | Flask  |  Prototype website demoing a new social media platform  | Group Work |
 | 7        | [🚗 Auto-Insurance Risk Analysis](#AutoRisk)    | Scikit-learn             | Using ML to predict whether a car is associated with any risks based on the car's attributes | Group Work |
 | 8        | [🏠 St.Petersburg Property Value Analysis](#PropertyValue)    | Geopandas             | Property value analysis for the city of St. Pete  | Group Work |
-| 9        | [🛡️ Insurance Management : System Design](#LuckyInsurance)    | UML, LucidChart             | | Group Work |
-| 10        | [🔎 Analysis of Cyber attack against T-Mobile](#SyberAttack)    |              | Report on the 2021 T-Mobile data breach and steps to protect against such attacks  | Individual Work |
+| 9        | [🛡️ Insurance Management : System Design](#LuckyInsurance)    | UML, LucidChart             | UML based design of an Insurance Management System | Group Work |
+| 10        | [🔎 Analysis of Cyber attack against T-Mobile](#SyberAttack)    | Info-Security analysis             | Report on the 2021 T-Mobile data breach and steps to protect against such attacks  | Individual Work |
 
 
 ## <a id="MachineTranslation"></a>🔠 Machine Translation

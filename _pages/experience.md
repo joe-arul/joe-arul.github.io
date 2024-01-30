@@ -36,7 +36,7 @@ Data Warehousing, Advanced Database Management Courses - School of Information S
 
 - Migrated the course database from Oracle DB to PostgreSQL and modified assignment queries accordingly.
 - Designed example dimensional models, analytic queries, ERDs and content to be used in class instruction.
-- ●	Assisted students in learning, setting up environments and graded their exams.
+- Assisted students in learning, setting up environments and graded their exams.
 
 Software Engineer
 ---------   

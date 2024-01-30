@@ -18,7 +18,7 @@ MS - Information Systems and Business Analytics
 - Awarded Teaching Assistantships for courses Data Warehousing and Advanced Database Management
 
 **Course Pathways completed:**
-> Data Mining / Statistical Methods **&rarr;** Supervised Machine Learning (Data Science Programming) **&rarr;** Deep Learning **&rarr;** *AI for Business (in-progress)* 
+> Data Mining / Statistical Methods **&rarr;** Machine Learning on Structured Data (Data Science Programming) **&rarr;** Deep Learning **&rarr;** *AI for Business (in-progress)* 
 
 > Advanced Database Management **&rarr;** System Analysis and Design **&rarr;** Big Data, Data Warehousing (TA)  
 

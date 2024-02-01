@@ -6,6 +6,16 @@ author_profile: true
 classes: wide
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2TG5MPEV9R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2TG5MPEV9R');
+</script>
+
 MS - Information Systems and Business Analytics 
 ---------   
 *STEM Designated - CIP code: 11.0501* | University of South Florida, Tampa

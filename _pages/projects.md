@@ -15,6 +15,16 @@ gallery:
     title: "Important Features"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2TG5MPEV9R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2TG5MPEV9R');
+</script>
+
 | **S.No** | **Project Name**                | **Primary Tech/Skill Used** | **Purpose** | **Type** |
 |----------|---------------------------------|-----------------------|-------------|----------| 
 | 1        | [🔠 Machine Translation](#MachineTranslation) | Tensorflow   |  Seq2Seq Model architectures for Language Translation on Right-Left typed Languages           | Individual Work |

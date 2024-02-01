@@ -10,7 +10,7 @@ classes: wide
 |----------|-------------------------- |------------|
 | [**Software Engineer** @ Rocket Software](#SoftwareEngineer) | 2018 - 2022  | **Data Engg & Analytics**: Kafka, PostgreSQL, Linux, Docker, Java / Python <br/> **Mainframe**: Assembler, JCL, VSAM, TSO/ISPF |
 | [**Research Assistant** @ USF](#ResearchAssistant) | 2023 - Present  | Deep Learning, Transformers, Python, Cyber Security |
-| [**Teaching Assistant** - Data Warehousing](#ResearchAssistant) | 2023   | Data Modeling, SQL| 
+| [**Teaching Assistant** - Data Warehousing](#TeachingAssistant) | 2023   | Data Modeling, SQL| 
 
 ## <a id="ResearchAssistant"></a>Graduate Research Assistant
   

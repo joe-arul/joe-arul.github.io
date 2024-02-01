@@ -8,7 +8,7 @@ classes: wide
 
 | **Role** | **Length**                | **Skills** |
 |----------|-------------------------- |------------|
-| [Software Engineer @ Rocket Software](#SoftwareEngineer) | 2018 - 2022  | <ul><li>**Data Engg & Analytics**: Kafka, PostgreSQL, Linux, Docker, Java / C, Python </li> <li>**Mainframe**: Assembler, JCL, VSAM, TSO/ISPF </li> </ul> |
+| [Software Engineer @ Rocket Software](#SoftwareEngineer) | 2018 - 2022  | `**Data Engg & Analytics**: Kafka, PostgreSQL, Linux, Docker, Java / Python` <br/> `**Mainframe**: Assembler, JCL, VSAM, TSO/ISPF` |
 | [Research Assistant @ USF](#ResearchAssistant) | 2023 - Present  | Deep Learning, Transformers, Python, Cyber Security |
 | [Teaching Assistant - Data Warehousing](#ResearchAssistant) | 2023   | Data Modeling, SQL| 
 
@@ -50,7 +50,7 @@ Data Warehousing, Advanced Database Management Courses - School of Information S
 | Sep 2018 – Aug 2022 (4 yrs.)       |
 | Chennai, India                     |
 
-> Product: [**TMON Analytics Infrastructure**](https://www.rocketsoftware.com/products/rocket-tmon-one | Jan 2021 - Aug 2022 | Designation: Software Engineer II 
+> Product: [**TMON Analytics Infrastructure**](https://www.rocketsoftware.com/products/rocket-tmon-one) | Jan 2021 - Aug 2022 | Designation: Software Engineer II 
  
 - Redesigned the product’s data ingestion pipeline to include streaming. [mainframe **&rarr;** Linux servers, **team of 3**]
 - Explored data partitioning and standardization strategies to improve pipeline’s end-end throughput by 40%

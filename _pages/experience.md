@@ -6,16 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2TG5MPEV9R"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-2TG5MPEV9R');
-</script>
-
 | **Role** | **Length**                | **Skills** |
 |----------|-------------------------- |------------|
 | [**Software Engineer** @ Rocket Software](#SoftwareEngineer) | 2018 - 2022  | **Data Engg & Analytics**: Kafka, PostgreSQL, Linux, Docker, Java / Python <br/> **Mainframe**: Assembler, JCL, VSAM, TSO/ISPF |

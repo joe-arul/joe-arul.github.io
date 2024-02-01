@@ -6,16 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2TG5MPEV9R"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-2TG5MPEV9R');
-</script>
-
 > ❄️About Me
 
 I am a Software Engineering candidate with interests in end-end Data and ML/AI lifecycles. Currently I'm pursuing a masters degree in Business Analytics and Information Systems at the [**University of South Florida**](https://www.usf.edu/). 

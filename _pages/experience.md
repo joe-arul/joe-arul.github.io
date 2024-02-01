@@ -13,7 +13,7 @@ classes: wide
 | [**Teaching Assistant** - Data Warehousing](#ResearchAssistant) | 2023   | Data Modeling, SQL| 
 
 ## <a id="ResearchAssistant"></a>Graduate Research Assistant
----------   
+  
 [**Cyber Florida Grant**](https://cyberflorida.org/), University of South Florida
 
 | May 2023 - Present |
@@ -33,7 +33,7 @@ classes: wide
 
 
 ## <a id="TeachingAssistant"></a>Graduate Teaching Assistant
----------   
+ 
 Data Warehousing, Advanced Database Management Courses - School of Information Systems, USF
 
 | Summer 2023        |
@@ -44,7 +44,7 @@ Data Warehousing, Advanced Database Management Courses - School of Information S
 - Assisted students in learning, setting up environments and graded their exams.
 
 ## <a id="SoftwareEngineer"></a>Software Engineer
----------   
+
 [**Rocket Software**](https://www.rocketsoftware.com)
 
 | Sep 2018 – Aug 2022 (4 yrs.)       |

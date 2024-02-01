@@ -6,8 +6,13 @@ author_profile: true
 classes: wide
 ---
 
+| **Role** | **Length**                | **Skills** |
+|----------|-------------------------- |------------|
+| [Software Engineer @ Rocket Software](#SoftwareEngineer) | 2018 - 2022  | <ul><li>**Data Engg & Analytics**: Kafka, PostgreSQL, Linux, Docker, Java / C, Python </li> <li>**Mainframe**: Assembler, JCL, VSAM, TSO/ISPF </li> </ul> |
+| [Research Assistant @ USF](#ResearchAssistant) | 2023 - Present  | Deep Learning, Transformers, Python, Cyber Security |
+| [Teaching Assistant - Data Warehousing](#ResearchAssistant) | 2023   | Data Modeling, SQL| 
 
-Graduate Research Assistant  
+## <a id="ResearchAssistant"></a>Graduate Research Assistant
 ---------   
 [**Cyber Florida Grant**](https://cyberflorida.org/), University of South Florida
 
@@ -27,7 +32,7 @@ Graduate Research Assistant
 - Assisted professors in stats collection and in creating presentations for grant related activities. 
 
 
-Graduate Teaching Assistant 
+## <a id="TeachingAssistant"></a>Graduate Teaching Assistant
 ---------   
 Data Warehousing, Advanced Database Management Courses - School of Information Systems, USF
 
@@ -38,16 +43,14 @@ Data Warehousing, Advanced Database Management Courses - School of Information S
 - Designed example dimensional models, analytic queries, ERDs and content to be used in class instruction.
 - Assisted students in learning, setting up environments and graded their exams.
 
-Software Engineer
+## <a id="SoftwareEngineer"></a>Software Engineer
 ---------   
 [**Rocket Software**](https://www.rocketsoftware.com)
 
 | Sep 2018 – Aug 2022 (4 yrs.)       |
 | Chennai, India                     |
 
-> Product: [TMON Analytics Infrastructure](https://www.rocketsoftware.com/products/rocket-tmon-one)
-> Length: Jan 2021 - Aug 2022
-> Role: Software Engineer II 
+> Product: [**TMON Analytics Infrastructure**](https://www.rocketsoftware.com/products/rocket-tmon-one | Jan 2021 - Aug 2022 | Designation: Software Engineer II 
  
 - Redesigned the product’s data ingestion pipeline to include streaming. [mainframe **&rarr;** Linux servers, **team of 3**]
 - Explored data partitioning and standardization strategies to improve pipeline’s end-end throughput by 40%
@@ -56,9 +59,7 @@ Software Engineer
 - Developed anomaly forecasting applications in Python to help customers improve their SLAs.
 - Designed and implemented end-end secure data channels for the entire product using ACL enabled 2-way SSL, and IBM AT-TLS.
 
-> Product: TMON Strategic Services
-> Length: Sep 2018 - Dec 2020
-> Role(s): Software Engineer I, Junior Software Engineer
+> Product: **TMON Strategic Services** | Sep 2018 - Dec 2020 | Designation(s): Software Engineer I, Junior Software Engineer
 
 - Developed ‘Common Services 1.0’ a set of libraries in 64-bit z/OS assembly language to simplify product startup and help developers make best use of the application infrastructure. [**Team of 5**]
 - Built services in z/OS assembly language to handle program housekeeping, recovery and diagnostic issues.

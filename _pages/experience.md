@@ -21,15 +21,15 @@ classes: wide
 
 > Research Work:
 
-- Achieved 30% better accuracy than existing threat hunting mechanisms by pre-training LLMs (Both Masked and Causal) to detect anomalous commands in security logs.
+- Achieved 30% better recall rate than existing threat-detection solutions by pre-training LLMs (Both Masked and Causal) to identify anomalies in security logs.
 - Employed Inference optimization strategies to improve prediction processing speed by 72% (C++).
-- Built Python libraries for language model inference and Cyber-threat report generation. 
+- Built Python APIs for model usage, inference, and report generation. 
 
 > Administrative tasks (Cybersecurity courses):
 
-- Automated customer data-processing system saving 6 hours weekly for the team.
+- Automated the customer data collection process, saving 6 hours weekly for the marketing team.
 - Served as the TA for the cybersecurity technical course, supported students in their learning efforts and employed engagement strategies to increase course completion rates.
-- Assisted professors in stats collection and in creating presentations for grant related activities. 
+- Assisted professors in producing statistics and in creating presentations for grant related activities.
 
 
 ## <a id="TeachingAssistant"></a>Graduate Teaching Assistant

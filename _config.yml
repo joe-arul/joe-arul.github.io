@@ -22,7 +22,7 @@ locale                   : "en-US"
 title                    : "Joe's Portfolio"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Joe Arul Susai Prakash"
+name                     : "Joe Prakash"
 description              : "Joe's Portfolio Website - 2024"
 url                      : https://joearul.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joe Arul Susai Prakash"
+  name             : "Joe Arul S."
   avatar           : "assets/images/port.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "SWE / Data and Machine Learning"
   location         : "Tampa, FL"

@@ -15,11 +15,11 @@ MS - Information Systems and Business Analytics
 | GPA: 3.96           |
 | [Transcript](https://drive.google.com/file/d/1Lq1sEVuvhlmGMvW42tWC3ZFTBSyROAhd/view?usp=drive_link) |
 
-- Top of the class in courses Big Data, Data Science Programming, Advanced System Analysis and Tech Foundations of AI
+- Top of the class in courses Big Data, Data Science Programming, Advanced System Analysis and Information Security
 - Awarded Teaching Assistantships for courses Data Warehousing and Advanced Database Management
 
 **Course Pathways completed:**
-> Data Mining / Statistical Methods **&rarr;** Machine Learning on Structured Data (Data Science Programming) **&rarr;** Deep Learning **&rarr;** *AI for Business (in-progress)* 
+> Data Mining / Statistical Methods **&rarr;** Machine Learning on Structured Data (Data Science Programming) **&rarr;** Deep Learning **&rarr;** *Design Science for AI (in-progress)* 
 
 > Advanced Database Management **&rarr;** System Analysis and Design **&rarr;** Big Data, Data Warehousing (TA)  
 

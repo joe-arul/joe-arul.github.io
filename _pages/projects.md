@@ -18,8 +18,8 @@ gallery:
 
 | **S.No** | **Project Name**                | **Primary Tech/Skill Used** | **Purpose** | **Type** |
 |----------|---------------------------------|-----------------------|-------------|----------| 
-| 1        | [🔠 Machine Translation](#MachineTranslation) | Tensorflow   |  Seq2Seq Model architectures for Language Translation on Right-Left typed Languages           | Individual Work |
-| 2        | [♻️ Machine Unlearning / Forgetting](#MachineUnlearning) | Torch  |  Exploring solutions to make models forget training data partially           | Individual Work |
+| 1        | [♻️ Machine Unlearning / Forgetting](#MachineUnlearning) | Torch  |  Exploring solutions to make models forget training data partially           | Individual Work |
+| 2        | [🔠 Machine Translation](#MachineTranslation) | Tensorflow   |  Seq2Seq Model architectures for Language Translation on Right-Left typed Languages           | Individual Work |
 | 3        | [💊 Health Determinants](#HealthDeterminants) | Spark     |  Distributed analysis to determine financial factors affecting the health of an individual    | Group Work |
 | 4        | [🍨 Vanilla Network](#VanillaNetwork) | Python       |  Math behind deep neural network learning          | Individual Work |
 | 5        | [📷 Convolute](#Convolute) | Tensorflow  |  Training several CNN architectures from scratch           | Individual Work |
@@ -30,16 +30,6 @@ gallery:
 | 10        | [🔎 Analysis of Cyber attack against T-Mobile](#CyberAttack)    | Info-Security analysis             | Report on the 2021 T-Mobile data breach and steps to protect against such attacks  | Individual Work |
 
 
-## <a id="MachineTranslation"></a>🔠 Machine Translation
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-In this assignment I explore different strategies used in building and training a Language Translator. I use Seq2Seq learning to convert sequences from English to Hebrew(Right to left typed/ DextroSinistral). I also employ techniques such as bi-directional learning and Attention mechanism which serve as the building blocks of advanced transformer-based NLP models such as GPT, Llama etc. 
-
-Find the project on: 
-[![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/machine_translation.git) 
-
-
 ## <a id="MachineUnlearning"></a>♻️ Machine Unlearning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -48,6 +38,15 @@ The field of Unlearning specifically deals with removing the influence of data p
 
 Find the project on: 
 [![Website](https://img.shields.io/badge/Website-8A2BE2)](https://joe-arul.github.io/machine_unlearning/) [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/machine_unlearning.git) 
+
+## <a id="MachineTranslation"></a>🔠 Machine Translation
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+In this assignment I explore different strategies used in building and training a Language Translator. I use Seq2Seq learning to convert sequences from English to Hebrew(Right to left typed/ DextroSinistral). I also employ techniques such as bi-directional learning and Attention mechanism which serve as the building blocks of advanced transformer-based NLP models such as GPT, Llama etc. 
+
+Find the project on: 
+[![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/machine_translation.git) 
 
 
 ## <a id="HealthDeterminants"></a>💊 Health Determinants

@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-<p style="text-align: center;"> <em> Yet not I, but through Christ in me.  </em> </p>
+<p style="text-align: center;"> <em> Not I, but through Christ.  </em> </p>
 
 > ❄️About Me
 

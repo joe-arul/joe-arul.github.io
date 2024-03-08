@@ -6,8 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-<p style="text-align: center;"> <em> Not I, but through Christ.  </em> </p>
-
 > ❄️About Me
 
 I am a Software Engineering candidate with interests in end-end Data and ML/AI lifecycles. Currently I'm pursuing a masters degree in Information Systems and Analytics at the [**University of South Florida**](https://www.usf.edu/). 
@@ -17,8 +15,9 @@ I am a Software Engineering candidate with interests in end-end Data and ML/AI l
 - I also work towards the cybersecurity training of Florida State Employees funded by the [**Florida Center for Cybersecurity**](https://cyberflorida.org/) at USF. 
 
 
-<p style="text-align: center;"> <em> <a href="mailto:s.joearul@gmail.com">Send</a> me a message if I can add any value to you! </em> </p>
+<p style="text-align: center;"> <a href="mailto:s.joearul@gmail.com">Send</a> me a message if I can add any value to you! </p>
 
 
+<p style="text-align: center;"> <em> Not I, but through Christ.  </em> </p>
 
 

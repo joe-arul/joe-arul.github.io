@@ -21,7 +21,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Joe's Portfolio"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Check how it looks"  # site tagline that appears below site title in masthead
 name                     : "Joe Prakash"
 description              : "Joe's Portfolio Website - 2024"
 url                      : https://joearul.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Joe Arul S."
   avatar           : "assets/images/port.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SWE / Data and Machine Learning"
+  bio              : "SWE / Data, ML/AI"
   location         : "Tampa, FL"
   email            :
   links:

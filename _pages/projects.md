@@ -18,10 +18,10 @@ gallery:
 
 | **S.No** | **Project Name**                | **Primary Tech/Skill Used** | **Purpose** | **Type** |
 |----------|---------------------------------|-----------------------|-------------|----------| 
-| 1        | [♻️ Machine Unlearning / Forgetting](#MachineUnlearning) | Torch  |  Exploring solutions to make models forget training data partially           | Individual Work |
-| 2        | [🔠 Machine Translation](#MachineTranslation) | Tensorflow   |  Seq2Seq Model architectures for Language Translation on Right-Left typed Languages           | Individual Work |
-| 3        | [💊 Health Determinants](#HealthDeterminants) | Spark     |  Distributed analysis to determine financial factors affecting the health of an individual    | Group Work |
-| 4        | [🍨 Vanilla Network](#VanillaNetwork) | Python       |  Math behind deep neural network learning          | Individual Work |
+| 1        | [🔠 Machine Translation](#MachineTranslation) | Tensorflow   |  Seq2Seq Model architectures for Language Translation on Right-Left typed Languages           | Individual Work |
+| 2        | [💊 Health Determinants](#HealthDeterminants) | Spark     |  Distributed analysis to determine financial factors affecting the health of an individual    | Group Work |
+| 3        | [🍨 Vanilla Network](#VanillaNetwork) | Python       |  Math behind deep neural network learning          | Individual Work |
+| 4        | [♻️ Machine Unlearning / Forgetting](#MachineUnlearning) | Torch  |  Exploring solutions to make models forget training data partially           | Individual Work |
 | 5        | [📷 Convolute](#Convolute) | Tensorflow  |  Training several CNN architectures from scratch           | Individual Work |
 | 6        | [📱 SocioConnect](#SocioConnect) | Flask  |  Prototype website demoing a new social media platform  | Group Work |
 | 7        | [🚗 Auto-Insurance Risk Analysis](#AutoRisk)    | Scikit-learn             | Using ML to predict whether a car is associated with any risks based on the car's attributes | Group Work |
@@ -29,15 +29,6 @@ gallery:
 | 9        | [🛡️ Insurance Management : System Design](#LuckyInsurance)    | UML, LucidChart             | UML based design of an Insurance Management System | Group Work |
 | 10        | [🔎 Analysis of Cyber attack against T-Mobile](#CyberAttack)    | Info-Security analysis             | Report on the 2021 T-Mobile data breach and steps to protect against such attacks  | Individual Work |
 
-
-## <a id="MachineUnlearning"></a>♻️ Machine Unlearning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-The field of Unlearning specifically deals with removing the influence of data points from a model without having to retrain it from scratch – in other words, making a model forget certain information. The concept struck my interest as the process of deep learning is very similar to human learning – *can model forgetting be related to how the human brain forgets information as well?* – we all have memories we want to remember, memories we want to forget and maybe we can help the model too!
-
-Find the project on: 
-[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://joe-arul.github.io/machine_unlearning/) [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/machine_unlearning.git) 
 
 ## <a id="MachineTranslation"></a>🔠 Machine Translation
 
@@ -47,6 +38,7 @@ In this assignment I explore different strategies used in building and training 
 
 Find the project on: 
 [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/machine_translation.git) 
+
 
 
 ## <a id="HealthDeterminants"></a>💊 Health Determinants
@@ -68,6 +60,15 @@ I implement the gradient descent and backpropagation mathematically from scratch
 
 Find the project on: 
 [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/vanillaNetwork.git) 
+
+## <a id="MachineUnlearning"></a>♻️ Machine Unlearning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+The field of Unlearning specifically deals with removing the influence of data points from a model without having to retrain it from scratch – in other words, making a model forget certain information. The concept struck my interest as the process of deep learning is very similar to human learning – *can model forgetting be related to how the human brain forgets information as well?* – we all have memories we want to remember, memories we want to forget and maybe we can help the model too!
+
+Find the project on: 
+[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://joe-arul.github.io/machine_unlearning/) [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/machine_unlearning.git) 
 
 ## <a id="Convolute"></a>📷 Convolute
 

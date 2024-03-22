@@ -18,6 +18,4 @@ I am a Software Engineering candidate with interests in end-end Data and ML/AI l
 <p style="text-align: center;"> <a href="mailto:s.joearul@gmail.com">Send</a> me a message if I can add any value to you! </p>
 
 
-<p style="text-align: center;"> <em> Not I, but through Christ.  </em> </p>
-
 

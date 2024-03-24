@@ -21,7 +21,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Joe's Portfolio"
 title_separator          : "|"
-subtitle                 : "Not I, but through Christ."  # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joe Prakash"
 description              : "Joe's Portfolio Website - 2024"
 url                      : https://joearul.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

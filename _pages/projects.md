@@ -47,7 +47,7 @@ Find the project on:
 
 The primary goal of this project is to identify how financial factors (and the emotional elements that come with it) affect the health of an individual. The analysis is based on data from the [National Financial Well-being Survey](https://www.consumerfinance.gov/data-research/financial-well-being-survey-data/), which also includes a section asking participants to rate their perception of their own health. The output of such an analysis would help companies operating in the FinTech Space optimize their products to improvise customer experience.
 
-Though this analysis could have been completed with simple Python libraries, one of the goals associated is to demonstrate distributed storage and processing technologies - so Spark is being used to accomodate scaling in the future. **The final vision for this project is to act as a plug and play component within FinTech products, delivering personalized experiences for each user.**
+Though this analysis could have been completed with simple Python libraries, one of the goals associated is to demonstrate distributed storage and processing technologies - so Spark is being used to accomodate scaling in the future. **The final vision for this project is to serve as a plug and play component within FinTech products, delivering personalized experiences for each user.**
 
 Find the project on: 
 [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/HealthDeterminants) [![YouTube](https://badgen.net/badge/icon/YouTube?icon=youtube&label)](https://www.youtube.com/watch?v=x0RHXVPTCtk&t=50s) 

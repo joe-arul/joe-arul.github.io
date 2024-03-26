@@ -52,7 +52,7 @@ Data Warehousing, Advanced Database Management Courses - School of Information S
 
 > Product: [**TMON Analytics Infrastructure**](https://www.rocketsoftware.com/products/rocket-tmon-one) | Jan 2021 - Aug 2022 | Designation: Software Engineer II 
  
-- Achieved successful R&D of an Analytics Infrastructure that facilitates data streaming from IBM z/OS to Linux systems enabling off-mainframe analytics options. [**team of 3**]
+- Achieved successful R&D of an Analytics Infrastructure that facilitates data streaming from IBM z/OS to Linux systems enabling off-mainframe analytics options.
 - Improved data platform’s end-end throughput by 47% via exploration of pipeline optimization strategies. 
 - Developed customized Kafka connectors for mainframe products by porting C/librdkafka libraries to z/OS.
 - Built admin tools for Kafka Cluster management and monitoring on Linux, saving IT teams 15+ hours monthly.
@@ -61,7 +61,7 @@ Data Warehousing, Advanced Database Management Courses - School of Information S
 
 > Product: **TMON Strategic Services** | Sep 2018 - Dec 2020 | Designation(s): Software Engineer I, Junior Software Engineer
 
-- Developed a new software framework based on 64-bit z/OS assembler to provide task management, recovery and diagnostics services to mainframe programmers, improving development time by 50% roughly. [**Team of 5**]
+- Developed a new software framework based on 64-bit z/OS assembler to provide task management, recovery and diagnostics services to mainframe programmers, improving development time by 50% roughly. 
 - Leveraged native z/OS services to enhance Performance Monitoring product’s startup experience.
 - Analyzed customer system dumps and fixed bugs within legacy HLASM code.
 - Improved service-level agreements by building Python applications that detect anomalies by analyzing mainframe system activity and resource consumption.  

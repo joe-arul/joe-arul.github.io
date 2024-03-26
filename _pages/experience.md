@@ -9,7 +9,7 @@ classes: wide
 | **Role** | **Length**                | **Skills** |
 |----------|-------------------------- |------------|
 | [**Software Engineer** @ Rocket Software](#SoftwareEngineer) | 2018 - 2022  | **Data Engg & Analytics**: Kafka, PostgreSQL, Linux, Docker, Java / Python <br/> **Mainframe**: Assembler, JCL, VSAM, TSO/ISPF |
-| [**Research Assistant** @ USF](#ResearchAssistant) | 2023 - Present  | Deep Learning, Transformers, Python, Cyber Security |
+| [**Research Assistant** @ USF](#ResearchAssistant) | 2023 - Present  | Deep Learning, LLM, Python, Cyber Security |
 | [**Teaching Assistant** - Data Warehousing](#TeachingAssistant) | 2023   | Data Modeling, SQL| 
 
 ## <a id="ResearchAssistant"></a>Graduate Research Assistant
@@ -21,13 +21,13 @@ classes: wide
 
 > Research Work:
 
-- Achieved 30% better recall rate than existing threat-detection solutions by pre-training LLMs (Both Masked and Causal) to identify anomalies in SIEM logs.
+- Developed and pre-trained LLMs (with BERT, GPT architecture) to detect anomalies in SIEM logs, resulting in a 30% enhancement in threat-detection rates compared to existing solutions on the market.
 - Employed Inference optimization strategies to improve LLM prediction speed by 72% (C++).
-- Built Python APIs for model usage, inference, and report generation. 
+- Built Python APIs to aid cyber analysts in model use, inference and automatic threat report generation.
 
 > Administrative tasks (Cybersecurity courses):
 
-- Automated several data collection processes using web-scraping tools and scripts, saving 6+ hours weekly for the relevant teams.
+- Automated data collection processes utilizing web-scraping tools, saving outreach teams 6+ hours weekly.
 - Served as the TA for the cybersecurity technical course, supported students in their learning efforts and employed engagement strategies to increase course completion rates.
 - Assisted professors in producing statistics and in creating presentations for grant related activities.
 
@@ -39,9 +39,9 @@ Data Warehousing, Advanced Database Management Courses - School of Information S
 | Summer 2023        |
 | Tampa, FL          |
 
-- Migrated the course database from Oracle DB to PostgreSQL and modified assignment queries accordingly.
-- Designed example dimensional models (Kimball), analytic queries, ERDs and content to be used in class instruction.
-- Assisted students in learning, setting up environments and graded their exams.
+- Migrated course database from Oracle DB server to PostgreSQL, reducing licensing costs; Adapted course content to ensure compatibility with the new database system.
+- Designed example dimensional models (Kimball), analytic queries, ERDs to be used in class instruction.
+- Assisted students in learning, setting up database environments and graded their exams.
 
 ## <a id="SoftwareEngineer"></a>Software Engineer
 
@@ -52,17 +52,18 @@ Data Warehousing, Advanced Database Management Courses - School of Information S
 
 > Product: [**TMON Analytics Infrastructure**](https://www.rocketsoftware.com/products/rocket-tmon-one) | Jan 2021 - Aug 2022 | Designation: Software Engineer II 
  
-- Redesigned the product’s data ingestion pipeline to include streaming. [mainframe **&rarr;** Linux servers, **team of 3**]
-- Explored data partitioning and standardization strategies to improve data pipeline’s end-end throughput by 40%
-- Developed Kafka connectors for Rocket’s mainframe products (Java & C/librd).
-- Automated Kafka Cluster setup and management in bash scripts, reducing admin work by 15 hours monthly.
-- Developed anomaly forecasting applications in Python to help customers improve their SLAs.
+- Achieved successful R&D of an Analytics Infrastructure that facilitates data streaming from IBM z/OS to Linux systems enabling off-mainframe analytics options. [**team of 3**]
+- Improved data platform’s end-end throughput by 47% via exploration of pipeline optimization strategies. 
+- Developed customized Kafka connectors for mainframe products by porting C/librdkafka libraries to z/OS.
+- Built admin tools for Kafka Cluster management and monitoring on Linux, saving IT teams 15+ hours monthly.
+- Leveraged KSQLDB stream processing to transform unstructured data and introduce JSON schemas.
 - Designed and implemented end-end secure data channels for the entire product using ACL enabled 2-way SSL, and IBM AT-TLS.
 
 > Product: **TMON Strategic Services** | Sep 2018 - Dec 2020 | Designation(s): Software Engineer I, Junior Software Engineer
 
-- Developed ‘Common Services 1.0’ a set of libraries in 64-bit z/OS assembly language to simplify product startup and help developers make best use of the application infrastructure. [**Team of 5**]
-- Built services in z/OS assembly language to handle program housekeeping, recovery and diagnostic issues.
-- Maintained legacy programs and fixed bugs by investigating customer system dumps.
+- Developed a new software framework based on 64-bit z/OS assembler to provide task management, recovery and diagnostics services to mainframe programmers, improving development time by 50% roughly. [**Team of 5**]
+- Leveraged native z/OS services to enhance Performance Monitoring product’s startup experience.
+- Analyzed customer system dumps and fixed bugs within legacy HLASM code.
+- Improved service-level agreements by building Python applications that detect anomalies by analyzing mainframe system activity and resource consumption.  
 - Orchestrated sub-team efforts from concept to production in 2 successful product releases.
 

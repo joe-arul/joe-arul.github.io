@@ -25,7 +25,7 @@ classes: wide
 - Employed Inference optimization strategies to improve LLM prediction speed by 72% (C++).
 - Built Python APIs to aid cyber analysts in model use, inference and automatic threat report generation.
 
-> Administrative tasks (Cybersecurity courses):
+> Administrative tasks (CyberFlorida - Cybersecurity courses):
 
 - Automated data collection processes utilizing web-scraping tools, saving outreach teams 6+ hours weekly.
 - Served as the TA for the cybersecurity technical course, supported students in their learning efforts and employed engagement strategies to increase course completion rates.

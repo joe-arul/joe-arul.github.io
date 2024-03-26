@@ -19,7 +19,7 @@ gallery:
 | **S.No** | **Project Name**                | **Primary Tech/Skill Used** | **Purpose** | **Type** |
 |----------|---------------------------------|-----------------------|-------------|----------| 
 | 1        | [🔠 Machine Translation](#MachineTranslation) | Tensorflow   |  Seq2Seq Model architectures for Language Translation on Right-Left typed Languages           | Individual Work |
-| 2        | [💊 Health Determinants](#HealthDeterminants) | Spark     |  Distributed analysis to determine financial factors affecting the health of an individual    | Group Work |
+| 2        | [💊 FinHealth](#FinHealth) | Spark     |  Distributed analysis to determine financial factors affecting the health of an individual    | Group Work |
 | 3        | [🍨 Vanilla Network](#VanillaNetwork) | Python       |  Math behind deep neural network learning          | Individual Work |
 | 4        | [♻️ Machine Unlearning / Forgetting](#MachineUnlearning) | Torch  |  Exploring solutions to make models forget training data partially           | Individual Work |
 | 5        | [📷 Convolute](#Convolute) | Tensorflow  |  Training several CNN architectures from scratch           | Individual Work |
@@ -41,13 +41,13 @@ Find the project on:
 
 
 
-## <a id="HealthDeterminants"></a>💊 Health Determinants
+## <a id="FinHealth"></a>💊 FinHealth
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-The primary goal of this project is to identify how financial factors (and the emotional elements that come with it) affect the health of an individual. The analysis is based on data from the [National Financial Well-being Survey](https://www.consumerfinance.gov/data-research/financial-well-being-survey-data/), which also includes a section asking participants to rate their perception of their own health. The output of such an analysis would help companies operating in the FinSpace optimize their products according to customer needs.
+The primary goal of this project is to identify how financial factors (and the emotional elements that come with it) affect the health of an individual. The analysis is based on data from the [National Financial Well-being Survey](https://www.consumerfinance.gov/data-research/financial-well-being-survey-data/), which also includes a section asking participants to rate their perception of their own health. The output of such an analysis would help companies operating in the FinTech Space optimize their products to improvise customer experience.
 
-Though this project could have been completed with tools such as Tableau or with simple Python libraries, one of the goals associated is to demonstrate distributed storage and processing technologies - so Spark is being used to accomodate scaling in the future. 
+Though this analysis could have been completed with simple Python libraries, one of the goals associated is to demonstrate distributed storage and processing technologies - so Spark is being used to accomodate scaling in the future. **The final vision for this project is to act as a plug and play component within FinTech products, delivering personalized experiences for each user.**
 
 Find the project on: 
 [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/HealthDeterminants) [![YouTube](https://badgen.net/badge/icon/YouTube?icon=youtube&label)](https://www.youtube.com/watch?v=x0RHXVPTCtk&t=50s) 
@@ -56,7 +56,7 @@ Find the project on:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-I implement the gradient descent and backpropagation mathematically from scratch, and implement it in Python code. These form as the building blocks of the abstract neural network layers, using which I explore how models learn patterns within data. I also test the effects of varying several structural and algorithmic hyperparameters on the learning process.
+I implement gradient descent and backpropagation mathematically from scratch, and implement it in Python code. These form as the building blocks of the abstract neural network layers, using which I explore how models learn patterns within data. I also test the effects of varying several structural and algorithmic hyperparameters on the learning process.
 
 Find the project on: 
 [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/vanillaNetwork.git) 
@@ -98,15 +98,6 @@ The focus of this project was develop a classification model to better predict w
 Find the project on: 
 [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/auto_risk) 
 
-## <a id="PropertyValue"></a> 🏠 St.Petersburg Property Value Analysis
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-In this project we (group) analyze the South St. Petersburg Community Redevelopment Area (CRA) that was established in 2015 to promote reinvestment in housing and neighborhoods, non-residential properties, education, and workforce development in the city. We aim to help the city with these findings by understanding historical trends of property values since the adoption of the CRA. 
-
-*The dataset for this project was provided by the City of St.Pete and is confidential. So I provide a link to a video of the project demo that showcases our analysis approach.*
-
-Find the project on: [![YouTube](https://badgen.net/badge/icon/YouTube?icon=youtube&label)](https://www.youtube.com/watch?v=ZLMxLkWyuCQ&list=LL&index=14&t=76s) 
 
 ## <a id="LuckyInsurance"></a> 🛡️ Insurance Management : System Design
 
@@ -116,9 +107,17 @@ Find the project on: [![Google Drive](https://img.shields.io/badge/Google%20Driv
 
 ## <a id="CyberAttack"></a> 🔎 Analysis of Cyber Attack against T-Mobile
 
-
 This project report showcases a comprehensive analysis of the 2021 data breach against T-Mobile, how to avoid such incidents and countermeasures, policies against future incidents.
 
 Find the project on: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XujjekVR-Eo2u2UlM0H5jV1WrIrQ7SFh/view?usp=drive_link) 
 
+## <a id="PropertyValue"></a> 🏠 St.Petersburg Property Value Analysis
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+In this project we (group) analyze the South St. Petersburg Community Redevelopment Area (CRA) that was established in 2015 to promote reinvestment in housing and neighborhoods, non-residential properties, education, and workforce development in the city. We aim to help the city with these findings by understanding historical trends of property values since the adoption of the CRA. 
+
+*The dataset for this project was provided by the City of St.Pete and is confidential. So I provide a link to a video of the project demo that showcases our analysis approach.*
+
+Find the project on: [![YouTube](https://badgen.net/badge/icon/YouTube?icon=youtube&label)](https://www.youtube.com/watch?v=ZLMxLkWyuCQ&list=LL&index=14&t=76s) 
 

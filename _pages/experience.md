@@ -21,7 +21,7 @@ classes: wide
 
 > Research Work:
 
-- Developed and pre-trained LLMs (with BERT, GPT architecture) to detect anomalies in SIEM logs, resulting in a 30% enhancement in threat-detection rates compared to existing solutions on the market.
+- Developed and pre-trained LLMs (with BERT, Llama2 architecture) to detect anomalies in SIEM logs, resulting in a 30% enhancement in threat-detection rates compared to existing solutions on the market.
 - Employed Inference optimization strategies to improve LLM prediction speed by 72% (C++).
 - Built Python APIs to aid cyber analysts in model use, inference and automatic threat report generation.
 

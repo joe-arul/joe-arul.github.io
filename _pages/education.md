@@ -17,7 +17,7 @@ MS - Information Systems and Analytics
 
 - Awarded Teaching Assistantships for 2 courses based on class performance.
 - Achievements: BayHacks hackathon-2nd place, Humana-Mays analytics case competition-top 25%, Beta Gamma Sigma Honor Society Member
-- Top of the class among 150+ students(aggregate) in Big Data, Data Science Programming, System Design (UML) and Information Security courses
+- Top of the class among 150+ students(aggregate) in Big Data, AI Programming, System Design (UML) and Information Security courses
 
 
 **Course Pathways completed:**

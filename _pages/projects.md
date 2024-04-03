@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /projects/
-title: "Projects"
+title: "Projects and Work Samples"
 author_profile: true
 classes: wide
 gallery:

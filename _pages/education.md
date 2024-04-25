@@ -19,7 +19,6 @@ MS - Information Systems and Analytics
 - Top of the class in Big Data, Data Science / AI Programming, System Design (UML) and Information Security courses.
 
 
-
 **Course Pathways completed:**
 
 > **ML/AI** : Data Mining & Statistical Methods **&rarr;** Machine Learning on Structured Data (Data Science Programming) **&rarr;** Deep Learning **&rarr;** *Design Science for AI systems (in-progress)* 

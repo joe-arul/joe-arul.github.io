@@ -9,26 +9,26 @@ classes: wide
 | **Role** | **Length**                | **Skills** |
 |----------|-------------------------- |------------|
 | [**Software Engineer** @ Rocket Software](#SoftwareEngineer) | 2018 - 2022  | **Data Engg & Analytics**: Kafka, PostgreSQL, Linux, Docker, Java / Python <br/> **Mainframe**: Assembler, JCL, VSAM, TSO/ISPF |
-| [**Research Assistant** @ USF](#ResearchAssistant) | 2023 - 2024  | Deep Learning, Gen-AI/LLM, Python, Cyber Security |
+| [**Research Assistant** @ USF](#ResearchAssistant) | 2023 - 2024  | Deep Learning, NLP/LLMs, Python |
 | [**Teaching Assistant** - Data Warehousing](#TeachingAssistant) | 2023   | Data Modeling, SQL| 
 
 ## <a id="ResearchAssistant"></a>Graduate Research Assistant
   
-[**Cyber Florida**](https://cyberflorida.org/), University of South Florida
+[**University of South Florida**](https://www.usf.edu/)
 
 | May 2023 - May 2024 |
 | Tampa, FL          |
 
 > Research Work:
 
-- Developed and pre-trained LLMs (with BERT, Llama2 architecture) to detect anomalies in SIEM logs, resulting in a 30% enhancement in threat-detection rates compared to existing solutions on the market.
-- Employed Inference optimization strategies to improve LLM prediction speed by 72% (C++).
-- Built Python APIs to aid cyber analysts in model use, inference and automatic threat report generation.
+- Pre-trained language models (BERT, Llama2 architectures) to detect anomalies in system logs, improving detection rates by 30% over baseline.
+- Optimized model inference in C++, improving prediction speed by 72%.
+- Built Python APIs for model inference and automated report generation.
 
-> Administrative tasks (CyberFlorida - Cybersecurity courses):
+> Administrative tasks:
 
 - Automated data collection processes utilizing web-scraping tools, saving outreach teams 6+ hours weekly.
-- Served as the TA for the cybersecurity technical course, supported students in their learning efforts and employed engagement strategies to increase course completion rates.
+- Served as TA for a technical course, supporting students and improving course completion rates.
 - Assisted professors in producing statistics and in creating presentations for grant related activities.
 
 
@@ -57,7 +57,7 @@ Data Warehousing, Advanced Database Management Courses - School of Information S
 - Developed customized Kafka connectors for mainframe products by porting C/librdkafka libraries to z/OS.
 - Built admin tools for Kafka Cluster management and monitoring on Linux, saving IT teams 15+ hours monthly.
 - Leveraged KSQLDB stream processing to transform unstructured data and introduce JSON schemas.
-- Designed and implemented end-end secure data channels for the entire product using ACL enabled 2-way SSL, and IBM AT-TLS.
+- Configured mutual TLS and ACL-based access control for the product's data channels.
 
 > Product: **TMON Strategic Services** | Sep 2018 - Dec 2020 | Designation(s): Software Engineer I, Junior Software Engineer
 

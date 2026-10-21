@@ -31,7 +31,7 @@ MS - Business Analytics and Information Systems
 <br>
 <ul>
 <li> ISM6930 <em>AI for Business - in progress (Spring 2024, Dr. Alan Hevner)</em> </li>
-<blockquote> Design Science for AI systems, Human-Machine Interactions and Controls, AI usage in various Business domains and contexts (collab with AI practitioners in the industry) </blockquote>
+<blockquote> Design Science for AI systems, Human-AI Interaction, AI use across business domains (with industry practitioners) </blockquote>
 <li> ISM6136 Data Mining <em>(Fall 2022, Dr. Timothy Smith)</em> </li>
 <blockquote> Data Preparation Techniques, Data Imbalances, Errors in Modeling, Metrics for Evaluation, Predictive Analytics </blockquote>
 <li> ISM6251 Data Science Programming / Machine Learning <em>(Spring 2023, Dr. Varol Kayhan)</em> </li>
@@ -51,7 +51,7 @@ MS - Business Analytics and Information Systems
 <li> ISM6124 Advanced System Analysis and Design <em>(Summer 2023, Dr. Bhuvan Unhelkar)</em> </li>
 <blockquote> UML - Extensibility, Interaction and Database Modeling, Software Reuse, Deployment, NFRs </blockquote>
 <li> ISM6328 Information Security <em>(Fall 2023, Dr. Marcus Green)</em> </li>
-<blockquote> Business Drivers, Access Controls, Attack Vectors, Security Operations, Contingency Planning </blockquote>
+<blockquote> Business Drivers, Access Controls, Risk Management, Contingency Planning </blockquote>
 </ul>
 </details>
 

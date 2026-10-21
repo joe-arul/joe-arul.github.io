@@ -74,7 +74,7 @@ Find the project on:
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-This project demonstrates training various CNN architectures (including ResNet and VGG16) from scratch to build a Computer Vision Model. The implementation taught me the complexities and nuances of training an Image Classifier, and prepared me to build real-world models for CV. 
+This project trains several CNN architectures (including ResNet and VGG16) from scratch for image classification, exploring the nuances of training image classifiers. 
 
 Find the project on: 
 [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/convolute.git) 
@@ -107,7 +107,7 @@ Find the project on: [![Google Drive](https://img.shields.io/badge/Google%20Driv
 
 ## <a id="CyberAttack"></a> 🔎 Analysis of Cyber Attack against T-Mobile
 
-This project report showcases a comprehensive analysis of the 2021 data breach against T-Mobile, how to avoid such incidents and countermeasures, policies against future incidents.
+A course report analyzing the 2021 T-Mobile data breach and the business policies that help prevent similar incidents.
 
 Find the project on: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XujjekVR-Eo2u2UlM0H5jV1WrIrQ7SFh/view?usp=drive_link) 
 

@@ -23,7 +23,7 @@ gallery:
 | 3        | [🍨 Vanilla Network](#VanillaNetwork) | Python       |  Math behind deep neural network learning          | Individual Work |
 | 4        | [♻️ Machine Unlearning / Forgetting](#MachineUnlearning) | Torch  |  Exploring solutions to make models forget training data partially           | Individual Work |
 | 5        | [📷 Convolute](#Convolute) | Tensorflow  |  Training several CNN architectures from scratch           | Individual Work |
-| 6        | [📱 SocioConnect](#SocioConnect) | Flask  |  Prototype website demoing a new social media platform  | Group Work |
+| 6        | [📱 SocioConnect](#SocioConnect) | Flask  |  Course prototype website for a fictional social media app  | Group Work |
 | 7        | [🚗 Auto-Insurance Risk Analysis](#AutoRisk)    | Scikit-learn             | Using ML to predict whether a car is associated with any risks based on the car's attributes | Group Work |
 | 8        | [🏠 St.Petersburg Property Value Analysis](#PropertyValue)    | Geopandas             | Property value analysis for the city of St. Pete  | Group Work |
 | 9        | [🛡️ Insurance Management : System Design](#LuckyInsurance)    | UML, LucidChart             | UML based design of an Insurance Management System | Group Work |
@@ -45,9 +45,7 @@ Find the project on:
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-The primary goal of this project is to identify how financial factors (and the emotional elements that come with it) affect the health of an individual. The analysis is based on data from the [National Financial Well-being Survey](https://www.consumerfinance.gov/data-research/financial-well-being-survey-data/), which also includes a section asking participants to rate their perception of their own health. The output of such an analysis would help companies operating in the FinTech space optimize their products to improvise customer experience. Though this analysis could have been completed with simple Python libraries, one of the goals associated is to demonstrate distributed storage and processing technologies - so Spark is being used to accomodate scaling in the future. 
-
-The final vision for this project is to serve as a plug and play component within FinTech products, delivering personalized experiences for each user.
+Academic group project (USF coursework): built an Apache Spark distributed analysis pipeline to evaluate how financial factors affect individual health outcomes. The analysis uses the public [National Financial Well-being Survey](https://www.consumerfinance.gov/data-research/financial-well-being-survey-data/), which includes a self-rated health section. Spark was used to demonstrate distributed storage and processing, even though the dataset could be handled with standard Python libraries.
 
 Find the project on: 
 [![Github](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/joe-arul/HealthDeterminants) [![YouTube](https://badgen.net/badge/icon/YouTube?icon=youtube&label)](https://www.youtube.com/watch?v=x0RHXVPTCtk&t=50s) 
@@ -83,7 +81,7 @@ Find the project on:
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-In this project, I worked with a team in developing a website. The website is an advertising platform for a new social media app called 'SocioConnect' and lets users sign up for the app. The project uses the Python Flask framework to render pages, submit forms and connect with the database.
+Academic group project (USF coursework): a prototype landing page for a fictional social media app, 'SocioConnect', with a sign-up form. Built with the Python Flask framework to render pages, submit forms and connect to a database.
 
 Find the project on: 
 [![Website](https://img.shields.io/badge/Website-8A2BE2)](https://socioconnect.pythonanywhere.com/) 
@@ -115,9 +113,9 @@ Find the project on: [![Google Drive](https://img.shields.io/badge/Google%20Driv
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-In this project we (group) analyze the South St. Petersburg Community Redevelopment Area (CRA) that was established in 2015 to promote reinvestment in housing and neighborhoods, non-residential properties, education, and workforce development in the city. We aim to help the city with these findings by understanding historical trends of property values since the adoption of the CRA. 
+Academic group project (USF coursework): we analyze the South St. Petersburg Community Redevelopment Area (CRA) that was established in 2015 to promote reinvestment in housing and neighborhoods, non-residential properties, education, and workforce development in the city. We aim to help the city with these findings by understanding historical trends of property values since the adoption of the CRA. 
 
-*The dataset for this project was provided by the City of St.Pete and is confidential. So I provide a link to a video of the project demo that showcases our analysis approach.*
+*The project used non-public municipal data provided by the City of St. Pete for university coursework, so a video of the project demo is linked instead.*
 
 Find the project on: [![YouTube](https://badgen.net/badge/icon/YouTube?icon=youtube&label)](https://www.youtube.com/watch?v=ZLMxLkWyuCQ&list=LL&index=14&t=76s) 
 

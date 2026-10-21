@@ -21,7 +21,7 @@ MS - Business Analytics and Information Systems
 
 **Course Pathways completed:**
 
-> **ML/AI** : Data Mining & Statistical Methods **&rarr;** Machine Learning on Structured Data (Data Science Programming) **&rarr;** Deep Learning **&rarr;** *Design Science for AI systems (in-progress)* 
+> **ML/AI** : Data Mining & Statistical Methods **&rarr;** Machine Learning on Structured Data (Data Science Programming) **&rarr;** Deep Learning **&rarr;** Design Science for AI systems 
 
 > **Data Systems** : Advanced Database Management **&rarr;** System Analysis and Design **&rarr;** Data Warehousing (TA), Big Data 
 
@@ -30,7 +30,7 @@ MS - Business Analytics and Information Systems
 <summary><b>Completed Course List and Learning</b></summary>
 <br>
 <ul>
-<li> ISM6930 <em>AI for Business - in progress (Spring 2024, Dr. Alan Hevner)</em> </li>
+<li> ISM6930 AI for Business <em>(Spring 2024, Dr. Alan Hevner)</em> </li>
 <blockquote> Design Science for AI systems, Human-AI Interaction, AI use across business domains (with industry practitioners) </blockquote>
 <li> ISM6136 Data Mining <em>(Fall 2022, Dr. Timothy Smith)</em> </li>
 <blockquote> Data Preparation Techniques, Data Imbalances, Errors in Modeling, Metrics for Evaluation, Predictive Analytics </blockquote>

@@ -9,7 +9,7 @@ classes: wide
 > ❄️About Me
 
 
-- Graduate student specializing in ML / AI, Data systems @ [**USF**](https://www.usf.edu/). 
+- Software engineer specializing in Data systems and ML / AI. MS in Business Analytics and Information Systems @ [**USF**](https://www.usf.edu/) (May 2024). 
 - Previously: Research assistant @ USF, applying LLMs to anomaly detection in system logs.
 - Previously: R&D - data infrastructure for analytics on mainframe-hybrid cloud, modernizing assembly language based systems @ [**Rocket Software**](https://www.rocketsoftware.com/products/rocket-tmon-one/rocket-tmon).
 

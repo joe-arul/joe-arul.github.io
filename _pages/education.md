@@ -7,7 +7,7 @@ classes: wide
 ---
 
 
-MS - Information Systems and Analytics 
+MS - Business Analytics and Information Systems 
 ---------   
 *STEM Designated - CIP code: 11.0501* | University of South Florida, Tampa
 
